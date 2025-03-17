@@ -59,7 +59,8 @@ Anomaly detection tracks head movements and unauthorized objects.
 
 Alerts are triggered for suspicious activities.
 
-Screenshots
+Screenshots<br>
+
 ![image](https://github.com/user-attachments/assets/d54d1fb8-4dbf-4b53-9501-ef7a0fdcf1fd) <br>
 ![image](https://github.com/user-attachments/assets/ce1c7177-a95b-4013-b835-666438844895)
 
