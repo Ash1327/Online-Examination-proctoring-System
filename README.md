@@ -1,11 +1,11 @@
 # Online-Examination-proctoring-System
 📚 Online Examination Proctoring System
 
-🎯 Project Overview
+## 🎯 Project Overview
 
 The Online Examination Proctoring System is a real-time monitoring solution designed to ensure the integrity of online exams by minimizing malpractice. It leverages facial recognition and object detection to track candidates and detect suspicious activities, reducing manual invigilation efforts by 60% and improving examination security.
 
-✨ Features
+## ✨ Features
 
 🎥 Real-time Proctoring: Monitors candidates throughout the exam session.
 
@@ -14,7 +14,7 @@ The Online Examination Proctoring System is a real-time monitoring solution desi
 🔍 Anomaly Detection: Detects head movement and unauthorized objects.
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Programming Language: Python
 
@@ -24,7 +24,7 @@ Machine Learning: Facial Recognition, Head Pose Estimation
 
 Version Control: Git
 
-🚀 Installation & Setup
+## 🚀 Installation & Setup
 
 1️⃣ Prerequisites
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 python proctoring.py
 
-📸 How It Works
+## 📸 How It Works
 
 The system captures live video from the candidate's webcam.
 
@@ -59,14 +59,14 @@ Anomaly detection tracks head movements and unauthorized objects.
 
 Alerts are triggered for suspicious activities.
 
-Screenshots<br>
+## Screenshots<br>
 
 ![image](https://github.com/user-attachments/assets/d54d1fb8-4dbf-4b53-9501-ef7a0fdcf1fd) <br>
 ![image](https://github.com/user-attachments/assets/ce1c7177-a95b-4013-b835-666438844895)
 
 
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 🔹 Integration with AI-based cheating detection.
 
@@ -74,9 +74,8 @@ Screenshots<br>
 
 🔹 Cloud-based deployment for scalability.
 
-📜 License
-
-This project is open-source and available under the MIT License.
+## 👨‍💻 Author
+Ashish Sharma
 
 👤 Author
 
